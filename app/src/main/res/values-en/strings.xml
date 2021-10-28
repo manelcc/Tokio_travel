@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="manzana">apple</string>
+    <string name="pera">pear</string>
+    <string name="melocoton">peach</string>
+    <string name="limon">lime</string>
+</resources>

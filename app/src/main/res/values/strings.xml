@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Viaje</string>
+    <string name="manzana">mazana</string>
+    <string name="pera">pera</string>
+    <string name="limon">limon</string>
+    <string name="melocoton">melocoton</string>
+    <string name="welcomeUser">Bienvenido Sr %1s, %2s</string>
+    <string name="cardTitle">DULCES SUEÑOS</string>
+    <string name="cardSubTitle">Uno de los remedios para que nuestro hijo/a pueda dormir comodamente, es leer un libro interesante</string>
+</resources>
