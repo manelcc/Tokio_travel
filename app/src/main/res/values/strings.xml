@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name" translatable="false">Viaje</string>
+    <string name="app_name" translatable="false">TokioViaje</string>
     <string name="manzana">mazana</string>
     <string name="pera">pera</string>
     <string name="limon">limon</string>
